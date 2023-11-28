@@ -1,0 +1,15 @@
+C:\Users\Kirill\source\repos\Lessons\bin\Debug\Lessons.exe.config
+C:\Users\Kirill\source\repos\Lessons\bin\Debug\Lessons.exe
+C:\Users\Kirill\source\repos\Lessons\bin\Debug\Lessons.pdb
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\MainWindow.g.cs
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\App.g.cs
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons_MarkupCompile.cache
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons_MarkupCompile.lref
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\MainWindow.baml
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons.g.resources
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons.Properties.Resources.resources
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons.csproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons.exe
+C:\Users\Kirill\source\repos\Lessons\obj\Debug\Lessons.pdb

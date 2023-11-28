@@ -1,0 +1,15 @@
+﻿<Window x:Name="Window" x:Class="Snake.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Snake"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" KeyDown="Window_KeyDown" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="GridMap" Background="White">
+        <Button x:Name="start" Content="Start" HorizontalAlignment="Center" VerticalAlignment="Center" Height="57" Width="88" Click="start_Click"/>
+        <Button x:Name="rest" Content="Restart" HorizontalAlignment="Left" Margin="653,155,0,0" VerticalAlignment="Top" Height="57" Width="88" Click="rest_Click" Visibility="Hidden"/>
+        <Button x:Name="stop" Content="Stop" HorizontalAlignment="Left" Margin="653,217,0,0" VerticalAlignment="Top" Height="57" Width="88" Click="stop_Click" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
